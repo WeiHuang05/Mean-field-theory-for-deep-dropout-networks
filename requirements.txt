@@ -1,0 +1,6 @@
+Theano
+Keras
+tensorflow
+tqdm
+numpy
+matplotlib
